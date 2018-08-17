@@ -1,4 +1,4 @@
 package com.HelloWorld.Helloworld;
 
-public class topic {
+public class Topics {
 }
