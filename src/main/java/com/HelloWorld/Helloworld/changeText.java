@@ -8,6 +8,6 @@ import org.springframework.stereotype.Component;
 public class changeText implements TextInput {
 
     public String makeText(String s) {
-        return s + " WAAAAANNN";
+        return "Wazzup " + s;
     }
 }

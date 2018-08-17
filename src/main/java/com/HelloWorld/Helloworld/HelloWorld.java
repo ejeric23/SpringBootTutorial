@@ -18,7 +18,7 @@ public class HelloWorld {
 
     @RequestMapping("/")
     public String index() {
-        return change.makeText("Herbal");
+        return change.makeText("Eric");
     }
 
 }
