@@ -16,7 +16,7 @@ public class HelloWorld {
     @Qualifier("changeText")
     TextInput change;
 
-    @RequestMapping("/")
+    @RequestMapping("/hello")
     public String index() {
         return change.makeText("Eric");
     }
